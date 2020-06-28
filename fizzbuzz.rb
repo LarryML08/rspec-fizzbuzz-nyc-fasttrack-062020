@@ -5,3 +5,5 @@ def fizzbuzz(number)
   else 25 % 5 == 5
   end
 end
+
+fizzbuzz(3)
