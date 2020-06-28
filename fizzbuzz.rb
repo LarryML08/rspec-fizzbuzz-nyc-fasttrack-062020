@@ -6,6 +6,6 @@ def fizzbuzz(number)
 end
 
 def fizzbuzz(number)
-  if 15 % 5 == 3
+  if 15 % 3 == 5
   end
 end
