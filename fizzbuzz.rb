@@ -4,5 +4,4 @@ def fizzbuzz(number)
   if 15 % 3 == 3
   else 25 % 5 == 5
   end
-  end
 end
